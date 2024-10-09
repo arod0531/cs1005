@@ -1,0 +1,23 @@
+header {
+    color: white;
+    background-color:blue;
+}
+.container {
+    background-color: lightgray;
+    color: black;
+
+}
+p{
+    color: red
+}
+.highlight {
+    color: green;
+}
+.main-content {
+    background-color: yellow;
+}
+.centered {
+    text-align: center;
+}
+
+
